@@ -1,2 +1,2 @@
 # Maze-Theories
-Working on basic graph theory in mazes by creating optimizing and solving mazes.
+This project explores basic graph theory by using different algorithms to generate, optimize, and solve mazes.
