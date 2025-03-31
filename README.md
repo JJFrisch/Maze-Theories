@@ -28,5 +28,7 @@ Can play the maze on your screen by creating a MazeLevel object that takes a maz
 ## Primitive (Prim's) Algorithm
 Initializes a 2D grid from a specified width and height. All positions start as walls and from a random starting position changes walls into paths.
 
+![Prim 50x40 1](https://github.com/user-attachments/assets/7abf1083-a6a1-4cf8-a31e-d45330908986)
+
 ![Prim 130x104 1](https://github.com/user-attachments/assets/6be95e49-008b-4101-b0ec-78168628e23a)
 
